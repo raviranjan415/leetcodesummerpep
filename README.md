@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raviranjan415/leetcodesummerpep/tree/master/0001-two-sum) |
+| [0303-range-sum-query-immutable](https://github.com/raviranjan415/leetcodesummerpep/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/raviranjan415/leetcodesummerpep/tree/master/0098-validate-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/raviranjan415/leetcodesummerpep/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/raviranjan415/leetcodesummerpep/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
