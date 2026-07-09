@@ -40,4 +40,16 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/raviranjan415/leetcodesummerpep/tree/master/0303-range-sum-query-immutable) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/raviranjan415/leetcodesummerpep/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/raviranjan415/leetcodesummerpep/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/raviranjan415/leetcodesummerpep/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
