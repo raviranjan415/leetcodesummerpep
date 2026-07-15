@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/raviranjan415/leetcodesummerpep/tree/master/0001-two-sum) |
 | [0303-range-sum-query-immutable](https://github.com/raviranjan415/leetcodesummerpep/tree/master/0303-range-sum-query-immutable) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/raviranjan415/leetcodesummerpep/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raviranjan415/leetcodesummerpep/tree/master/0005-longest-palindromic-substring) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/raviranjan415/leetcodesummerpep/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/raviranjan415/leetcodesummerpep/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
